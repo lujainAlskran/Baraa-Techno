@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&display=swap');
+
+.nav-item,h1, h6,p{font-family: 'Aref Ruqaa', serif;}
+
+body {
+    margin: 0;
+    
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  .nav-item
+{
+  font-size: larger;
+}
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #ff9999;
+    color: white;
+  }
+  .form2 {
+    width: 500px;
+    margin:0 auto;
+  }
+
+p{font-size: larger;}
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }

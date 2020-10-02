@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&display=swap');
+
+.nav-item, h6,p{font-family: 'Aref Ruqaa', serif;}
+  .form2 {
+    width: 500px;
+    margin:0 auto;
+  }
+  .nav-item
+{
+  font-size: larger;
+}
